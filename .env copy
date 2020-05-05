@@ -1,0 +1,3 @@
+DB_HOST = graphql
+DB_USER = root
+DB_PASS = 
