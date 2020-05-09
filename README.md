@@ -82,6 +82,22 @@ ___
     email
   }
 }`
+
+## UPDATE USER
+`mutation {
+  updateUser(id: 1, name: "sandro", email: "ale@gmail.com", password: "13233") {
+    id
+    name
+    email
+  }
+}
+`
+
+## DELETE USER
+`mutation {
+  deleteUser(id: 1)
+}
+`
 ___
 
 ## Construído com
