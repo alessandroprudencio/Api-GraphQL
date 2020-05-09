@@ -104,6 +104,7 @@ ___
 
 * [GraphQL ](https://graphql.org/)
 * [Node JS](https://nodejs.org/)
+* [Knex](http://knexjs.org/)
 
 ## Contribuição
 
