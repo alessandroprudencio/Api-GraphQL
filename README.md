@@ -28,7 +28,7 @@ cd Api-GraphQL
 ```
 yarn install
 ```
-Crie um arquivo .env no root da sua aplicação utilizando como exemplo o .env_exemple e crie um banco de dados como o mesmo nome que esteja no seu .env...
+Crie um arquivo .env no root da sua aplicação utilizando como exemplo o .env_example e crie um banco de dados como o mesmo nome que esteja no seu .env...
 
 ```
 na raiz do projeto digite: cd /src
